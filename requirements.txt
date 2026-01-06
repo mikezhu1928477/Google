@@ -1,0 +1,12 @@
+requests==2.32.5
+python-dotenv==1.2.1
+langgraph>=0.0.1
+
+# Google API 客户端
+google-api-python-client==2.187.0
+google-api-core==2.28.1
+googleapis-common-protos==1.72.0
+google-auth==2.41.1
+google-auth-httplib2==0.3.0
+google-auth-oauthlib==1.2.3
+requests-oauthlib==2.0.0
